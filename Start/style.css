@@ -1,0 +1,74 @@
+body{
+  font-family: 'DM Sans', sans-serif;
+}
+nav{
+  background-color: rgb(113, 110, 103);
+  padding: 10px;
+}
+nav #M1, #M2, #M3, #M4{
+  font-size: 15px;
+  color: whitesmoke;
+  text-decoration: none;
+  padding: 10px;
+
+}
+table{
+  font-family: 'Poppins', sans-serif;
+  padding-left: 500px;
+  padding-right: 500px;
+  height: 50px;
+  
+}
+
+#Main{
+  background-color: darkgray;
+  background-position: center;
+  
+}
+#start{
+  padding-inline-start: 0px;
+  list-style-type: none;
+  margin: 0px;
+}
+#Name.T1{
+  padding: 20px;
+  text-align: center;
+}
+#Foto.MP{
+  padding: 10px;
+  text-align: center;
+  
+}
+#ConteudoSobre{
+  padding-left: 30px;
+}
+#Hab{
+  line-height: 28px;
+}
+h1,h2{
+  color:rgb(255, 255, 255);
+  font-style:oblique;
+  padding-left: 10px;
+}
+ul #C1,#C2,#C3,#C4{
+  font-size: 20px;
+  color: black;
+  text-decoration: none;
+  line-height: 28px;
+}
+#MenuContato h2{
+  text-align: right;
+  padding-right: 20px;
+}
+#MenuContato ul{
+  display: flex;
+  padding-left: 80%;
+}
+#MenuContato ul li{
+  padding-right: 15px;
+  list-style-type: none;
+}
+nav#B.Rodape{
+  padding-left: 0px;
+  background-color: black;
+}
